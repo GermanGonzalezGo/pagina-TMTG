@@ -3,4 +3,5 @@
 _La páagina por desparche_
 
 Mi nombre es Germán González, soy estudiante universitario
-<img src="https://cdn.pixabay.com/photo/2020/02/05/09/02/cloud-4820504_1280.jpg">
+<img width="700" height="394" alt="image" src="https://github.com/user-attachments/assets/8ef118f0-c170-47f7-8999-a2f97e634080" />
+
